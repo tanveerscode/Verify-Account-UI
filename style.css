@@ -28,11 +28,7 @@ body {
   text-align: center;
   border: 1px solid rgb(249, 245, 245);
 }
-.in{
-  position: relative;
-  display: flex;
-  justify-content: space-between;
-}
+
 .otp-input:focus {
   outline: none;
   border: 1px solid #9db8f5;
